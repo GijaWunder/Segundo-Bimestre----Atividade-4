@@ -15,6 +15,6 @@ programa
 		}
 
 		escreva("Levará ", anos, " anos para a população do país A se igualar a população do país B.\n")
-		escreva("A população do país A será ", PopulacaoA, " habitantes e a população do país B será de ", PopulacaoB, " habitantes.")
+		escreva("A população do país A será de ", PopulacaoA, " habitantes e a população do país B será de ", PopulacaoB, " habitantes.")
 	}
 }
